@@ -1,0 +1,4 @@
+# settings for callmebaby.py
+account = CHANGE_ME
+auth = CHANGE_ME
+number = +33XXXXXXXXX
